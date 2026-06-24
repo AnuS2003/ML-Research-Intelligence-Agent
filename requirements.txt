@@ -1,0 +1,9 @@
+sentence-transformers
+huggingface_hub
+numpy
+python-dotenv
+transformers
+accelerate
+torch
+sentence-transformers
+numpy
